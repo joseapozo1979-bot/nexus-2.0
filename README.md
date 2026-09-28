@@ -1,4 +1,4 @@
-# NEXUS 2.0
+# NEXUS
 
 ## Unified Infrastructure Operations Center
 
