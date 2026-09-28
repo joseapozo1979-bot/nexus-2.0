@@ -70,7 +70,7 @@ Resolution
 
 Current version:
 
-**NEXUS 2.0 Stable**
+**NEXUS 1.8 Stable**
 
 This repository contains the public documentation used for the Proof of Usefulness Hackathon submission.
 
